@@ -1,6 +1,6 @@
 .box1{
-    height: 100px;
-    width: 150px;
+    height: 150;
     background-color: rgb(142, 116, 230);
     text-align: center;
+    align-content: center;
 }
