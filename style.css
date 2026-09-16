@@ -16,3 +16,10 @@
     text-align: center;
     font-size: 30px;
 }
+.recipeBox{
+    background-color: rgba(230, 179, 116, 0.488);
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
