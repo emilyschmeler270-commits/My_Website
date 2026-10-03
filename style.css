@@ -18,7 +18,8 @@
 }
 .recipeBox{
     background-color: rgba(234, 209, 178, 0.488);
-    text-align: center;
+    text-align: left;
     width: 50%;
-    margin-left: auto;
+    margin-left: 10%;
+    margin-right: 10%;
 }
